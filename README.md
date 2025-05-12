@@ -14,12 +14,3 @@ No more repeating the same `TextStyle` code or getting lost in font setups. Just
 
 ---
 
-## Installation
-
-Add this to your `pubspec.yaml`:
-
-```yaml
-dependencies:
-  fatma_fonts_library:
-    git:
-      url: https://github.com/chirtu/fatma_fonts_library.git
